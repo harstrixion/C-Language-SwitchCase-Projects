@@ -1,0 +1,12 @@
+Hey, I'm harshit I'm a writer and the author of the entire arc it's wrote myself,
+I'm here to contribute in programming,
+Hi, I'm Harshit, a 17-year-old first-year B.Tech student with a strong passion for programming and technology.
+My interest in coding started during childhood, and since then, I have enjoyed exploring different areas of computer science and building projects to strengthen my skills.
+Currently, I am exploring programming fundamentals and have already worked on a variety of beginner and intermediate projects.
+I enjoy learning by building, experimenting, and solving problems through code.
+While I had the option to pursue a traditional Computer Science path,
+I chose to focus on Artificial Intelligence and Machine Learning because I am particularly fascinated by Deep Learning algorithms and the way intelligent systems learn from data.
+My long-term goal is to deepen my understanding of AI, Machine Learning, and Deep Learning while continuing to improve my software development skills.
+At the moment, I am actively learning languages such as C and Python, exploring Linux, and strengthening my problem-solving abilities through hands-on projects.
+I believe consistent practice, curiosity, and continuous learning are the keys to becoming a better developer.
+Welcome to my GitHub, where I share my learning journey, projects, and experiments in programming, AI, and technology.
